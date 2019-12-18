@@ -1,19 +1,30 @@
 # Pipeline_Spark
 Tutorial do Python Spark
+![](./pyspqrk.png)
 
 Preparando o ambiente de desenvolvimento do ambiente Python
+
 Instalação do ambiente de desenvolvimento: instale o Anaconda e o PyCharm CE
+
 Outros ambientes recomendados: Eclipse, Spyder (incluído no anaconda e Aton)
+
 Configurar e alterar o ambiente python virtuallogo
+
 Pacotes de importação: pip install & import
+
 Crie um diretório se ele não existir: os.start (...) os.mkdir (...)
+
 Ambiente virtual para Python -m venv environment_name
+
 Ambiente Spark Python
+
 Instalação do Apacke Spark
+
 Usando o Apache Spack online: databricks community edition
+
 Bibliotecas regulares
+
 Instalação do Apache Spark com distribuição gratuita (Hortonworks)
- 
 
 Conceitos básicos
 Funções
@@ -52,6 +63,7 @@ Filtragem RDD
 Amostragem de dados
 Operações com conjuntos
 Mapear / Reduzir operações
+
  
 
 Processamento de dados
@@ -66,11 +78,13 @@ Definir configurações de fluxo de dados do cluster
 Executar consultas SQL
  
 
+
 Tubos (Tubulações)
 Uso de tubulações (Tubulações)
 Uso de tubos em árvores de decisão
 Uso de tubos em k-means
  
+
 
 Aprendizado de máquina
 Aprendizado supervisionado
@@ -80,11 +94,12 @@ Regressão linear simples - Spark
 Regressão logística
 Aprendizagem não supervisionada
 K-Means - Centelha
- 
+
+
 
 Execução distribuída no Spark
 Olá, exemplo mundial
- 
+
 
 Outros
 Testes unitários
